@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matheusagues
-- 👷🏼 Civil engineering student
+- 👷🏼 Civil Engineering Student
 - 👀 I’m interested in  Dashboards, Automações e IA
 - 🌱 I’m currently learning  Python, VBA e Power BI  
 - 💞️ I collaborate in the development of Automation and Data Analysis projects
