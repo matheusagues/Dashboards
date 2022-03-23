@@ -1,0 +1,33 @@
+# *OBS UTILIZAVEL EM Jupyter Notebook 6.4.5
+import pyautogui
+import time
+import pyperclip
+
+pyautogui.hotkey("ctrl", "t") # nova aba
+pyperclip.copy("http...") # site de votação
+pyautogui.hotkey("ctrl", "v") # colar link
+pyautogui.press("enter")# entrar no site
+
+#algoritmo de repetições
+max = 100  
+i = 0
+soma = 0 
+ 
+while i < max:
+
+    time.sleep(5)
+
+
+    pyautogui.click(x=1355, y=678) #local de clique
+    time.sleep(1)
+
+
+    pyautogui.click(x=571, y=236) #local de atualização
+    time.sleep(2)
+    pyautogui.click(x=557, y=379) #local de click
+    time.sleep(4)
+    pyautogui.click(x=83, y=49) #local de click
+    
+    soma += i
+    i += 1
+    #print(i) #printa a quantidade
