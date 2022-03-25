@@ -1,1 +1,1 @@
-Dashboard sobre COMPRAS.
+Dashboards
